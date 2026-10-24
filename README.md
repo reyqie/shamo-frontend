@@ -1,6 +1,7 @@
 <div id="top"></div>
 
 # E-Commerce Complate App - Flutter
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/72520643/151439022-ce5b5547-0f10-4411-b0c4-e439416ec7a3.png" alt="Image" width="150" height="150" />
 </p>
@@ -33,19 +34,16 @@
 
 <div id="about"></div>
 
-## About 
+## About
+
 Shamo adalah aplikasi penjualan sepatu, yang dirancang menggunakan bahasa dart (Flutter). Aplikasi Shamo juga sudah terintegrasi dengan server yang di bangung menggunakan framework Laravel, selain server pada aplikasi shamo terdapat fitur chat. Chat pada shamo memanfaatkan teknologi dari google yaitu firebase.
 
-
 <div id="demo"></div>
-
-### Demo
-> [DOWNLOAD](https://github.com/RohmanBenyRiyanto/shamo-frontend/releases/download/Flutter/Shamo.apk)
-
 
 <div id="preview"></div>
 
 ## Preview
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/72520643/151441375-79760baa-1277-4305-84bb-bb325d7ea747.jpg" alt="Image" />
 </p>
@@ -56,26 +54,26 @@ Shamo adalah aplikasi penjualan sepatu, yang dirancang menggunakan bahasa dart (
 
 <div id="tools"></div>
 
->**Tools we are using:**
-- Flutter SDK   : [download](https://flutter.dev/)
-- Laravel       : [download](https://laravel.com/)
-- Firebase      : [download](https://firebase.google.com/)
-- Postman API   : [download](https://www.postman.com/)
-- Tailwind CSS  : [download](https://tailwindcss.com/)
-- Laragon       : [download](https://laragon.org/)
-- Mysql         : [download](https://dev.mysql.com/downloads/installer/)
+> **Tools we are using:**
+
+-   Flutter SDK : [download](https://flutter.dev/)
+-   Laravel : [download](https://laravel.com/)
+-   Firebase : [download](https://firebase.google.com/)
+-   Postman API : [download](https://www.postman.com/)
+-   Tailwind CSS : [download](https://tailwindcss.com/)
+-   Laragon : [download](https://laragon.org/)
+-   Mysql : [download](https://dev.mysql.com/downloads/installer/)
 
 <div id="package"></div>
 
->**Packages we are using:**
-- google_fonts   : [view](https://pub.dev/packages/google_fonts)
-- carousel_slider       : [view](https://pub.dev/packages/carousel_slider)
-- provider      : [view](https://pub.dev/packages/provider)
-- http   : [view](https://pub.dev/packages/http)
-- cloud_firestore  : [view](https://pub.dev/packages/cloud_firestore)
-- firebase_core       : [view](https://pub.dev/packages/firebase_core)
+> **Packages we are using:**
 
-
+-   google_fonts : [view](https://pub.dev/packages/google_fonts)
+-   carousel_slider : [view](https://pub.dev/packages/carousel_slider)
+-   provider : [view](https://pub.dev/packages/provider)
+-   http : [view](https://pub.dev/packages/http)
+-   cloud_firestore : [view](https://pub.dev/packages/cloud_firestore)
+-   firebase_core : [view](https://pub.dev/packages/firebase_core)
 
 <div id="front-end"></div>
 
@@ -83,17 +81,18 @@ Shamo adalah aplikasi penjualan sepatu, yang dirancang menggunakan bahasa dart (
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a Flutter Front End [view](https://github.com/RohmanBenyRiyanto/shamo-frontend)
+1. Get a Flutter Front End [view](https://github.com/reyqie/shamo-frontend)
 2. Clone the repo
 
-   ```go
-   gh repo clone RohmanBenyRiyanto/shamo-frontend
-   ```
+    ```go
+    gh repo clone reyqie/shamo-frontend
+    ```
+
 3. Install packages
 
-   ```dart
-   flutter pub get
-   ```
+    ```dart
+    flutter pub get
+    ```
 
 <div id="back-end"></div>
 
@@ -101,44 +100,39 @@ _Below is an example of how you can instruct your audience on installing and set
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a Laravel API template [view](https://github.com/RohmanBenyRiyanto/shamo-backend)
+1. Get a Laravel API template [view](https://github.com/reyqie/shamo-backend)
 2. Clone the repo
 
-   ```go
-   gh repo clone RohmanBenyRiyanto/shamo-backend
-   ```
+    ```go
+    gh repo clone reyqie/shamo-backend
+    ```
+
 3. Install NPM packages
 
-   ```npm
-   npm install
-   ```
+    ```npm
+    npm install
+    ```
+
 4. Install Composser
 
-   ```composer
-   composer install
-   or
-   composer update
-   ```
+    ```composer
+    composer install
+    or
+    composer update
+    ```
 
-4. Database: Migrations
+5. Database: Migrations
 
-   ```laravel
-   create database
-   and
-   php artisan make:migration
-   ```
+    ```laravel
+    create database
+    and
+    php artisan make:migration
+    ```
 
-5. File Storage
+6. File Storage
 
-   ```laravel
-   php artisan storage:link
-   ```
-
-<div id="creator"></div>
-
-### Creator
-
-> <img src="https://user-images.githubusercontent.com/72520643/151448156-fe97b000-460f-4a96-9d78-8c7344d89083.png" alt="Image" width="200" />
-
+    ```laravel
+    php artisan storage:link
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
